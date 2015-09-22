@@ -6,4 +6,4 @@ In a variety of sizes and layouts.
 
 [Download the .zip file](https://github.com/OSLC/logo/archive/master.zip)
 
-Read about the reasoning behind the update [here](http://oslc.github.io/redesign/posts/logo.html) and [here](http://oslc.github.io/redesign/posts/logo-and-colors-again.html)
+Read about the reasoning behind the update [here](http://oslc.github.io/redesign/posts/logo.html) and [here](http://oslc.github.io/redesign/posts/logo-and-colors-again.html).
