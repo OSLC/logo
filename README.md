@@ -6,4 +6,4 @@ In a variety of sizes and layouts.
 
 [Download the .zip file](https://github.com/OSLC/logo/archive/master.zip)
 
-[If you're looking for assets for the old logo, try here](https://github.com/OSLC/logo/tree/legacy-logo). Read about the update [here](http://oslc.github.io/redesign/posts/logo.html) and [here](http://oslc.github.io/redesign/posts/logo-and-colors-again.html).
+[If you're looking for assets for the old logo, try here](https://github.com/OSLC/logo/tree/legacy-logo). Read about the update [here](https://web.archive.org/web/20141223100953/http://oslc.github.io:80/redesign/posts/logo.html) and [here](https://web.archive.org/web/20141223063014/http://oslc.github.io:80/redesign/posts/logo-and-colors-again.html).
